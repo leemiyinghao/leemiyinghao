@@ -13,3 +13,6 @@ Founder of [mosir](https://mosir.app).
 
 ## Languages
 <img height="180em" src="https://card.catlee.se/gh/2-most-commit-language.svg" />
+
+## Reason I didn't sleep enough
+<img height="180em" src="https://card.catlee.se/gh/4-productive-time.svg" />
